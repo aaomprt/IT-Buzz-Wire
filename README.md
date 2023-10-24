@@ -50,9 +50,9 @@
 
 
 # Website
-
+https://nuneung1612.github.io/it-buzz-wire-game-web/phypro_pj_web/ 
 # Youtube
-
+https://youtu.be/nZelnM8HnHE 
 # สมาชิกกลุ่ม
 1. 65070101 นายธรรมนูญ แก้วโชติหิรัญ
 2. 65070131 นางสาวปราณปรีญา เม่งมั่งมี
