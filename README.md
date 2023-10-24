@@ -5,7 +5,8 @@
 
 
 # Poster
-![Uploading image.png…]()
+![image](https://github.com/aaomprt/IT-Buzz-Wire-Game/assets/93991575/209e14fe-fdf1-4b8d-85ef-64a6693e6fd9)
+
 
 
 # วัตถุประสงค์
